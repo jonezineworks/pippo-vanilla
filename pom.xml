@@ -16,7 +16,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <slf4j.version>1.7.7</slf4j.version>
 
-        <pippo.version>1.11.0</pippo.version>
+        <pippo.version>1.12.0</pippo.version>
     </properties>
 
     <dependencies>
